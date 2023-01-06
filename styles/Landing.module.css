@@ -1,0 +1,211 @@
+/* Hero.js */
+
+.box {
+  width: 250px;
+}
+
+.name {
+  opacity: 0;
+  animation: info 2s forwards;
+  animation-delay: 0.5s;
+}
+
+.dot_parent {
+  position: relative;
+}
+
+.dot {
+  width: 0;
+  height: 0;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  background: #101828;
+  -webkit-animation: load 0.6s cubic-bezier(0.74, 0.06, 0.4, 0.92) forwards;
+  animation: popIn 0.8s cubic-bezier(0.74, 0.06, 0.4, 0.92) forwards;
+  animation-delay: 2s;
+  position: absolute;
+  bottom: 90px;
+  right: -30px;
+}
+
+.summary {
+  opacity: 0;
+  animation: info 2s forwards;
+  animation-delay: 3s;
+}
+
+.role {
+  width: 100%;
+  position: relative;
+  display: flex;
+  align-items: center;
+  height: 30px;
+  margin-top: -10px;
+}
+
+.block {
+  width: 0%;
+  height: inherit;
+  background: #ab004d;
+  position: absolute;
+  animation: secBlock 2s cubic-bezier(0.74, 0.06, 0.4, 0.92) forwards;
+  animation-delay: 1.2s;
+  display: flex;
+}
+
+.role_name {
+  animation: secFadeIn 2s forwards;
+  animation-delay: 2.5s;
+  opacity: 0;
+  font-weight: 400;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
+
+/* Hero.js && ContactForm.js */
+
+.contact_btn_light {
+  background: linear-gradient(to left, #101828 50%, #ab004d 50%) right;
+  background-size: 200%;
+  transition: 0.4s ease-out;
+}
+
+.contact_btn_dark {
+  background: linear-gradient(to left, #1f2937 50%, #ab004d 50%) right;
+  background-size: 200%;
+  transition: 0.4s ease-out;
+}
+
+.contact_btn_light:hover,
+.contact_btn_dark:hover {
+  background-position: left;
+}
+
+
+/* Project.js */
+
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  overflow: hidden;
+  width: 100%;
+  height: 0;
+  transition: 0.5s ease;
+}
+
+.container:hover .overlay {
+  height: 100%;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 768px) and (-webkit-min-device-pixel-ratio: 2) {
+  .overlay {
+    height: 100%;
+  }
+}
+
+/* FadeInSection.js */
+
+.fade_in_section {
+  opacity: 0;
+  transform: translateY(15vh);
+  visibility: hidden;
+  transition: opacity 1200ms ease-out, transform 600ms ease-out,
+    visibility 1200ms ease-out;
+  will-change: opacity, transform, visibility;
+}
+.fade_in_section.is_visible {
+  opacity: 1;
+  transform: none;
+  visibility: visible;
+}
+
+@keyframes mainBlock {
+  0% {
+    width: 0%;
+    left: 0;
+  }
+  50% {
+    width: 100%;
+    left: 0;
+  }
+  100% {
+    width: 0;
+    left: 100%;
+  }
+}
+
+@keyframes secBlock {
+  0% {
+    width: 0%;
+    left: 0;
+  }
+  50% {
+    width: 100%;
+    left: 0;
+  }
+  100% {
+    width: 0;
+    left: 100%;
+  }
+}
+
+@keyframes mainFadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes info {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes secFadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0.5;
+  }
+}
+
+@keyframes popIn {
+  0% {
+    width: 0px;
+    height: 0px;
+    border: 0px solid #ddd;
+    opacity: 0;
+  }
+  50% {
+    width: 10px;
+    height: 10px;
+    opacity: 1;
+    bottom: 45px;
+  }
+  65% {
+    width: 7px;
+    height: 7px;
+    bottom: 25px;
+  }
+  80% {
+    width: 10px;
+    height: 10px;
+    bottom: 40px;
+  }
+  100% {
+    width: 7px;
+    height: 7px;
+    bottom: 30px;
+  }
+}

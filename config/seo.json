@@ -1,0 +1,15 @@
+{
+  "siteMetadata": {
+    "title": "Zoltan Software Engineer",
+    "author": {
+      "name": "Zoltan Vincze",
+      "summary": "Software Engineer"
+    },
+    "description": "Landing page of software development",
+    "siteUrl": "",
+    "language": "en-US",
+    "social": {
+      "github": "zoltanvin"
+    }
+  }
+}

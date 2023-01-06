@@ -1,0 +1,567 @@
+1670753584626	geckodriver	INFO	Listening on 127.0.0.1:55668
+1670753587706	mozrunner::runner	INFO	Running command: "C:/Users/Shark/AppData/Local/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "55669" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shark\\AppData\\Local\\Temp\\rust_mozprofileK06wgz"
+1670753588513	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shark\\AppData\\Local\\Temp\\rust_mozprofileK06wgz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55669/devtools/browser/c378e24d-ac7a-4402-acdc-f4fcbc36abab
+1670753591592	Marionette	INFO	Listening on port 55693
+Read port: 55693
+1670753591678	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:332:29
+
+1670754018325	geckodriver	INFO	Listening on 127.0.0.1:56068
+1670754021396	mozrunner::runner	INFO	Running command: "C:/Users/Shark/AppData/Local/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "56069" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shark\\AppData\\Local\\Temp\\rust_mozprofileiPW4tM"
+1670754021872	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shark\\AppData\\Local\\Temp\\rust_mozprofileiPW4tM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56069/devtools/browser/d0d28f3b-6d83-4398-86ed-55451fcc9c88
+1670754024898	Marionette	INFO	Listening on port 56093
+Read port: 56093
+1670754024969	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1670754029637	Marionette	INFO	Stopped listening on port 56093
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1670754073222	geckodriver	INFO	Listening on 127.0.0.1:56151
+1670754076291	mozrunner::runner	INFO	Running command: "C:/Users/Shark/AppData/Local/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "56152" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shark\\AppData\\Local\\Temp\\rust_mozprofileyh4xcS"
+1670754076757	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shark\\AppData\\Local\\Temp\\rust_mozprofileyh4xcS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56152/devtools/browser/a5b6e4d3-e6d1-43fa-9827-276d7bf8fb4f
+1670754079703	Marionette	INFO	Listening on port 56177
+Read port: 56177
+1670754079860	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/53pvxhwnu4814i1e9beje3cqa, line 89: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670754110887	geckodriver	INFO	Listening on 127.0.0.1:56270
+1670754113933	mozrunner::runner	INFO	Running command: "C:/Users/Shark/AppData/Local/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "56271" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shark\\AppData\\Local\\Temp\\rust_mozprofilevkRZS5"
+1670754114389	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shark\\AppData\\Local\\Temp\\rust_mozprofilevkRZS5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56271/devtools/browser/43f23cd2-532c-4ba2-a080-1030db0815c1
+1670754117243	Marionette	INFO	Listening on port 56297
+Read port: 56297
+1670754117316	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+1670754157980	geckodriver	INFO	Listening on 127.0.0.1:56356
+1670754222792	geckodriver	INFO	Listening on 127.0.0.1:56382
+1670754225877	mozrunner::runner	INFO	Running command: "C:/Users/Shark/AppData/Local/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "56383" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shark\\AppData\\Local\\Temp\\rust_mozprofileng7JuK"
+1670754226399	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shark\\AppData\\Local\\Temp\\rust_mozprofileng7JuK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56383/devtools/browser/b580fb24-c20b-4960-b1fa-b8812605b11c
+1670754229384	Marionette	INFO	Listening on port 56409
+Read port: 56409
+1670754229431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1670754233336	Marionette	INFO	Stopped listening on port 56409
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670754237522	geckodriver	INFO	Listening on 127.0.0.1:56454
+1670754240589	mozrunner::runner	INFO	Running command: "C:/Users/Shark/AppData/Local/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "56455" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shark\\AppData\\Local\\Temp\\rust_mozprofile790Q9l"
+1670754241060	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shark\\AppData\\Local\\Temp\\rust_mozprofile790Q9l\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56455/devtools/browser/5e339067-bcd9-4c6c-bc59-57bb7bd64bf1
+1670754243902	Marionette	INFO	Listening on port 56479
+Read port: 56479
+1670754243960	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1670754246843	Marionette	INFO	Stopped listening on port 56479
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1670754266519	geckodriver	INFO	Listening on 127.0.0.1:56511
+1670754342243	geckodriver	INFO	Listening on 127.0.0.1:56622
+1670754380983	geckodriver	INFO	Listening on 127.0.0.1:56642
+1670754556839	geckodriver	INFO	Listening on 127.0.0.1:56690
+1670754559894	mozrunner::runner	INFO	Running command: "C:/Users/Shark/AppData/Local/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "56691" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shark\\AppData\\Local\\Temp\\rust_mozprofilePrkf9H"
+1670754560443	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shark\\AppData\\Local\\Temp\\rust_mozprofilePrkf9H\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56691/devtools/browser/70477ccc-9557-41fc-b1a9-c0305e5d3bcb
+1670754563366	Marionette	INFO	Listening on port 56713
+Read port: 56713
+1670754563491	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1670754567210	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+1670754827927	geckodriver	INFO	Listening on 127.0.0.1:56815
+1670754831028	mozrunner::runner	INFO	Running command: "C:/Users/Shark/AppData/Local/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "56816" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shark\\AppData\\Local\\Temp\\rust_mozprofileY8ZNRy"
+1670754831544	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shark\\AppData\\Local\\Temp\\rust_mozprofileY8ZNRy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56816/devtools/browser/fa581eeb-3943-4a7f-8433-19adb7283cdb
+1670754834770	Marionette	INFO	Listening on port 56843
+Read port: 56843
+1670754834882	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+1670754975174	geckodriver	INFO	Listening on 127.0.0.1:56917
+1670754978221	mozrunner::runner	INFO	Running command: "C:/Users/Shark/AppData/Local/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "56918" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shark\\AppData\\Local\\Temp\\rust_mozprofile1EuqAq"
+1670754978694	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shark\\AppData\\Local\\Temp\\rust_mozprofile1EuqAq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56918/devtools/browser/b645bd7d-948a-41a3-90f4-62ff55769a07
+1670754981645	Marionette	INFO	Listening on port 56942
+Read port: 56942
+1670754981704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+1670755069228	geckodriver	INFO	Listening on 127.0.0.1:57000
+1670755072272	mozrunner::runner	INFO	Running command: "C:/Users/Shark/AppData/Local/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "57001" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shark\\AppData\\Local\\Temp\\rust_mozprofileMiEspg"
+1670755072718	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shark\\AppData\\Local\\Temp\\rust_mozprofileMiEspg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57001/devtools/browser/6fa30d3c-01f3-4880-b1e0-212ce4f616de
+1670755075888	Marionette	INFO	Listening on port 57027
+Read port: 57027
+1670755076008	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+1670755474551	geckodriver	INFO	Listening on 127.0.0.1:57355
+1670755477613	mozrunner::runner	INFO	Running command: "C:/Users/Shark/AppData/Local/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "57356" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shark\\AppData\\Local\\Temp\\rust_mozprofilekSWXHd"
+1670755478132	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shark\\AppData\\Local\\Temp\\rust_mozprofilekSWXHd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57356/devtools/browser/1576911e-c6af-465f-b3cb-cf89a4ca03f8
+1670755481321	Marionette	INFO	Listening on port 57380
+Read port: 57380
+1670755481459	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1670755486214	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+1670755508955	Marionette	INFO	Stopped listening on port 57380
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1670755604958	geckodriver	INFO	Listening on 127.0.0.1:57464
+1670755608019	mozrunner::runner	INFO	Running command: "C:/Users/Shark/AppData/Local/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "57465" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shark\\AppData\\Local\\Temp\\rust_mozprofile0GKwCc"
+1670755608569	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shark\\AppData\\Local\\Temp\\rust_mozprofile0GKwCc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57465/devtools/browser/5827b21c-c718-412e-8b3f-8411169d9c89
+1670755611711	Marionette	INFO	Listening on port 57488
+Read port: 57488
+1670755611772	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1670755711730	geckodriver	INFO	Listening on 127.0.0.1:57601
+1670755748897	geckodriver	INFO	Listening on 127.0.0.1:57627
+1670755751970	mozrunner::runner	INFO	Running command: "C:/Users/Shark/AppData/Local/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "57628" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shark\\AppData\\Local\\Temp\\rust_mozprofile68f5Rp"
+1670755752439	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shark\\AppData\\Local\\Temp\\rust_mozprofile68f5Rp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57628/devtools/browser/dc6f6981-fde0-44ea-9567-43d4b3b8e5cd
+1670755755259	Marionette	INFO	Listening on port 57654
+Read port: 57654
+1670755755395	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1670755763236	geckodriver	INFO	Listening on 127.0.0.1:57683
+1670755766304	mozrunner::runner	INFO	Running command: "C:/Users/Shark/AppData/Local/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "57684" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shark\\AppData\\Local\\Temp\\rust_mozprofileRrAupQ"
+1670755766783	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shark\\AppData\\Local\\Temp\\rust_mozprofileRrAupQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57684/devtools/browser/04c0d932-d4f4-4751-a449-bc4007bf22da
+1670755769666	Marionette	INFO	Listening on port 57707
+Read port: 57707
+1670755769828	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+1670755983243	Marionette	INFO	Stopped listening on port 57707
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1670756017967	geckodriver	INFO	Listening on 127.0.0.1:57908
+1670756021013	mozrunner::runner	INFO	Running command: "C:/Users/Shark/AppData/Local/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "57909" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shark\\AppData\\Local\\Temp\\rust_mozprofileNOhc0X"
+1670756021488	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shark\\AppData\\Local\\Temp\\rust_mozprofileNOhc0X\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57909/devtools/browser/dd318615-6dc6-413e-bd2a-4ca81ce28936
+1670756024459	Marionette	INFO	Listening on port 57934
+Read port: 57934
+1670756024590	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+1670756038360	Marionette	INFO	Stopped listening on port 57934
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PSessionStorageObserver::Msg_Observe) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1670756143480	geckodriver	INFO	Listening on 127.0.0.1:58006
+1670756146532	mozrunner::runner	INFO	Running command: "C:/Users/Shark/AppData/Local/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "58007" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shark\\AppData\\Local\\Temp\\rust_mozprofileveDXHu"
+1670756147055	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shark\\AppData\\Local\\Temp\\rust_mozprofileveDXHu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58007/devtools/browser/f5a8413b-216c-4ce1-b6c0-32faa84a4dc7
+1670756150126	Marionette	INFO	Listening on port 58032
+Read port: 58032
+1670756150254	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+1670756194965	Marionette	INFO	Stopped listening on port 58032
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1670756435273	geckodriver	INFO	Listening on 127.0.0.1:58164
+1670756438319	mozrunner::runner	INFO	Running command: "C:/Users/Shark/AppData/Local/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "58165" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shark\\AppData\\Local\\Temp\\rust_mozprofilewq3YVJ"
+1670756438788	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shark\\AppData\\Local\\Temp\\rust_mozprofilewq3YVJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58165/devtools/browser/a6ccccb7-6081-4aa8-9a11-6bc6f0278429
+1670756441782	Marionette	INFO	Listening on port 58188
+Read port: 58188
+1670756441868	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\Shark\AppData\Local\Temp\rust_mozprofilewq3YVJ\bookmarkbackups\bookmarks-2022-12-11.jsonlz4) because it does not exist
+1670758325069	geckodriver	INFO	Listening on 127.0.0.1:58318
+1670758328105	mozrunner::runner	INFO	Running command: "C:/Users/Shark/AppData/Local/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "58319" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shark\\AppData\\Local\\Temp\\rust_mozprofileuJwur1"
+1670758328760	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shark\\AppData\\Local\\Temp\\rust_mozprofileuJwur1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58319/devtools/browser/3218759a-5114-4671-999a-67f9039e5c45
+1670758331597	Marionette	INFO	Listening on port 58341
+Read port: 58341
+1670758331652	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+1670758548635	Marionette	INFO	Stopped listening on port 58341
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1670758561294	geckodriver	INFO	Listening on 127.0.0.1:58442
+1670758564357	mozrunner::runner	INFO	Running command: "C:/Users/Shark/AppData/Local/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "58443" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shark\\AppData\\Local\\Temp\\rust_mozprofile7PnJn3"
+1670758564833	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shark\\AppData\\Local\\Temp\\rust_mozprofile7PnJn3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58443/devtools/browser/becb51a0-1db9-4896-82fc-1664ca5483a2
+1670758567737	Marionette	INFO	Listening on port 58467
+Read port: 58467
+1670758567805	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1670758625851	geckodriver	INFO	Listening on 127.0.0.1:58526
+1670758628911	mozrunner::runner	INFO	Running command: "C:/Users/Shark/AppData/Local/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "58527" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shark\\AppData\\Local\\Temp\\rust_mozprofile2zgatO"
+1670758629369	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shark\\AppData\\Local\\Temp\\rust_mozprofile2zgatO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58527/devtools/browser/1465ec86-ee8f-4ce3-b5e5-9f98a405eed4
+1670758632176	Marionette	INFO	Listening on port 58551
+Read port: 58551
+1670758632236	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1670758847616	Marionette	INFO	Stopped listening on port 58551
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+n: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/74vgqysmx2vo98gp0shatkws8, line 2482: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cva89zomnrcfe0rz5d1h5gp8t, line 18928: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null

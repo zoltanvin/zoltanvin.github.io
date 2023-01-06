@@ -1,0 +1,18 @@
+.certificate {
+    /* Add some styling for the certificate element */
+  }
+  
+  .certificate.fade-in {
+    /* Add the fade-in animation */
+    animation: fadeIn 0.5s;
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  
